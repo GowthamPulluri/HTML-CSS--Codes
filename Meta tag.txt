@@ -1,0 +1,13 @@
+In HTML, the <meta> tag is used to provide metadata about an HTML document. Metadata is information about the data within the document, and it is not displayed to the user but is instead used by browsers and other applications. The <meta> tag is typically placed within the <head> section of an HTML document.
+
+Here are some common uses of the <meta> tag:
+
+Character Encoding: As mentioned earlier, <meta charset="UTF-8"> is used to specify the character encoding of the document.
+
+Viewport Settings: <meta name="viewport" content="width=device-width, initial-scale=1.0"> is often used to control the viewport settings for responsive web design.
+
+Description and Keywords: <meta name="description" content="A brief description of the page"> and <meta name="keywords" content="keyword1, keyword2, ..."> can be used to provide information about the content of the page.
+
+Author and Copyright: <meta name="author" content="Author Name"> and <meta name="copyright" content="Copyright © Year"> are used to specify the author and copyright information.
+
+HTTP-Equiv for Refresh and Redirect: <meta http-equiv="refresh" content="5;url=https://example.com"> can be used to automatically refresh or redirect the page after a specified time.
